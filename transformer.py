@@ -15,4 +15,3 @@ class TransformerModel:
         ai_msg = self.model.invoke(messages)
         
         return ai_msg.content
-\
